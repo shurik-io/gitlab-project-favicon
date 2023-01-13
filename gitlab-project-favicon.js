@@ -6,6 +6,7 @@
 // @unwrap
 // @noframes
 // @run-at         document-end
+// @downloadURL      https://github.com/shurik-io/gitlab-project-favicon/raw/main/gitlab-project-favicon.js
 // @updateURL      https://github.com/shurik-io/gitlab-project-favicon/raw/main/gitlab-project-favicon.js
 // @match          https://git.adfinis.com/*
 // @require        https://code.jquery.com/jquery-3.6.3.slim.min.js
